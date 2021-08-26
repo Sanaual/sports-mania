@@ -1,0 +1,15 @@
+.leagueStyle{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+    background-color: #191970;
+    color: #444;
+    padding: 150px;
+}
+.bigHeading{
+    background-color:cyan;
+    color:#fff;
+    padding:200px;
+    font-size:150px;
+    font-weight:bold;
+}
